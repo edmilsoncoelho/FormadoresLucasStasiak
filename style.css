@@ -1,0 +1,69 @@
+body {
+}
+
+header {
+  background-color: #000000;
+}
+
+#logo {
+  height: 150px;
+}
+
+header nav {
+  display: inline;
+}
+
+header ul {
+  color: #FFFFFF;
+  display: inline-block;
+  vertical-align: top;
+    margin: 63px 0 0 0;
+}
+
+header li a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+header li {
+  display: inline-block;
+  margin: 0px 30px;
+  font-size: 20px;
+}
+
+nav a:hover {
+  color: red;
+  text-transform: uppercase
+}
+
+nav a:active {
+  color: yellow;
+}
+
+
+main h1 {
+  color: yellow;
+}
+
+.fotos a{
+  display: block;
+  margin: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.fotos img{
+  border: 2px solid #000000;
+}
+
+.fotos{
+  margin: 10px 10px 10px 10px;
+}
+
+.fotos img:hover{
+  border-color: blue;
+}
+
+.fotos a:hover{
+  color: rgb(206, 146, 74);
+  font-size: 25px;
+}

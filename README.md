@@ -1,2 +1,1 @@
-# FormadoresLucasStasiak
-Conteúdos trabalhados na aula do Grupo de Formadores
+# aula2-turma-c-
